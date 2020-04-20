@@ -10,7 +10,7 @@ The second graph, "Most Popular Time", show expected usage spikes around rush ho
 
 ## Gender & Age 
 
-n the next panel, I've compiled charts to show how gender and age affect the number of trips, and trip duration.  There were over 3x more male riders in 2018 and 2019, though only 2.7x more in 2020 (and fewer riders of both gender overall in 2020).  However, it seem that women are consistently taking longer trips on average than men year over year.
+In the next panel, I've compiled charts to show how gender and age affect the number of trips, and trip duration.  There were over 3x more male riders in 2018 and 2019, though only 2.7x more in 2020 (and fewer riders of both gender overall in 2020).  However, it seem that women are consistently taking longer trips on average than men year over year.
 
 Riders in their late 20s and early 30s account for the most trips.  However, some of this age data is questionable as there are riders recorded as being born in the 1880s, and many over the age of 100.  Those values were removed via the filter, as well as an outlier of age 51 (unless there's an extremely active group of 51 year olds rider bikes around the city hundreds of times a day).  Trip Duration seems to be less correlated with age than total number of trips.
 
